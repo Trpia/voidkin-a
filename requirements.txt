@@ -1,0 +1,6 @@
+kivy
+moviepy
+pillow
+numpy
+imageio
+imageio-ffmpeg
